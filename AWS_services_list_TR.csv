@@ -1,0 +1,231 @@
+Service Name,Category,Keywords,Description
+Amazon Athena,Analytics,Interactive Query; Serverless; SQL;,S3 üzerinde doğrudan SQL sorguları çalıştırmanıza olanak tanıyan sunucusuz bir analiz hizmetidir.
+AWS Data Exchange,Analytics,Data Marketplace; Subscription; Data Sharing;,Farklı veri sağlayıcılarından veri setlerini bulup abone olabileceğiniz ve paylaşabileceğiniz bir hizmettir.
+AWS Data Pipeline,Analytics,Data Workflow; ETL; Scheduling;,Veri iş akışlarını otomatikleştiren ve verileri taşımayı ve dönüştürmeyi kolaylaştıran bir hizmettir.
+Amazon EMR (Map Reduce),Analytics,Hadoop; Spark; Big Data;,Büyük veri iş yüklerini kolayca çalıştırmak için ölçeklenebilir bir Hadoop ve Spark yönetilen hizmetidir.
+AWS Glue,Analytics,ETL; Data Catalog; Serverless;,Veri keşfi hazırlama ve entegrasyonunu otomatikleştiren sunucusuz bir ETL hizmetidir.
+Amazon Kinesis,Analytics,Streaming; Real-time; Data;,Gerçek zamanlı veri akışlarını toplama işleme ve analiz etme hizmetidir.
+Amazon Kinesis Data Streams,Analytics,Real-time; Stream Processing; Shards;,Büyük veri akışlarını gerçek zamanlı olarak işlemek için ölçeklenebilir bir akış veri hizmetidir.
+Amazon Kinesis Data Firehose,Analytics,Streaming; Delivery; S3;,Veri akışlarını otomatik olarak Amazon S3 Redshift veya Elasticsearch’e aktaran hizmettir.
+Amazon Managed Streaming for Apache Kafka (Amazon MSK),Analytics,Kafka; Managed; Streaming;,Tamamen yönetilen ölçeklenebilir Apache Kafka hizmetidir.
+Amazon Managed Service for Apache Flink,Analytics,Flink; Stream Processing; Managed;,Gerçek zamanlı veri işleme için yönetilen Apache Flink hizmetidir.
+Amazon OpenSearch Service,Analytics,Search; Analytics; Elasticsearch;,Veri arama analiz ve görselleştirme için yönetilen bir arama hizmetidir.
+Amazon QuickSight,Analytics,Business Intelligence; Visualization; Dashboard;,Hızlı bulut tabanlı iş zekası ve veri görselleştirme hizmetidir.
+Amazon Redshift,Analytics,Data Warehouse; Columnar Storage; SQL;,Büyük veri analizi ve veri ambarı hizmeti sunar yüksek performanslı SQL sorgularını destekler.
+AWS Lake Formation,Analytics,Data Lake; Catalog; Security;,Veri göllerini hızlıca kurmak ve güvenli bir şekilde yönetmek için kullanılan hizmettir.
+Amazon CloudSearch,Analytics,Search; Managed; Full-text;,Web ve uygulamalarda arama işlevselliği sağlayan yönetilen bir arama hizmetidir.
+Amazon AppFlow,Application Integration,Data Integration; SaaS; Workflow;,Farklı uygulamalar arasında veri akışlarını güvenli ve otomatik şekilde sağlayan bir hizmettir.
+AWS AppSync,Application Integration,GraphQL; API; Real-time;,Gerçek zamanlı ve çevrimdışı senkronizasyon destekleyen GraphQL API hizmetidir.
+Amazon EventBridge,Application Integration,Event Bus; Serverless; Event-driven;,Uygulamalar arasında olay tabanlı veri iletimi sağlayan yönetilen bir hizmettir.
+Amazon MQ,Application Integration,Message Broker; ActiveMQ; RabbitMQ;,Tamamen yönetilen mesaj aracısı hizmeti ile uygulamalar arasında iletişim sağlar.
+Amazon Simple Notification Service (SNS),Application Integration,Pub/Sub; Messaging; Notifications;,Uygulamalar arasında mesaj iletimi ve bildirimler göndermek için kullanılan yönetilen hizmettir.
+Amazon Simple Queue Service (SQS),Application Integration,Queue; Messaging; Decoupling;,Uygulama bileşenlerini ayırmak ve mesaj kuyruğu ile asenkron iletişim sağlamak için kullanılır.
+AWS Step Functions,Application Integration,Workflow; State Machine; Orchestration;,Farklı servisleri ve iş akışlarını görsel bir şekilde düzenleyip otomatikleştiren hizmettir.
+Amazon Managed Workflows for Apache Airflow (MWAA),Application Integration,Airflow; Managed; Workflow;,Apache Airflow tabanlı iş akışlarını yönetilen ortamda çalıştırmak için hizmettir.
+Amazon Sumerian,AR and VR,3D; AR; VR;,AR/VR uygulamaları ve sahneler oluşturmak için bulut tabanlı bir platformdur.
+AWS Billing Conductor,AWS Cost Management,Billing; Custom Pricing; Cost Allocation;,AWS faturalarını özelleştirip dağıtım yapmanızı sağlayan bir maliyet yönetim hizmetidir.
+AWS Budgets,AWS Cost Management,Budget; Alerts; Cost Tracking;,AWS maliyetlerini ve kullanımını bütçe hedeflerine göre takip etmenizi sağlar.
+AWS Cost and Usage Report,AWS Cost Management,Cost Report; Usage Report; CSV;,AWS kullanım ve maliyet verilerini ayrıntılı şekilde raporlar.
+AWS Cost Explorer,AWS Cost Management,Cost Visualization; Analytics;,AWS maliyetlerini analiz etmenize ve trendleri görselleştirmenize yardımcı olur.
+AWS Marketplace,AWS Cost Management,Software Marketplace; SaaS; AMI;,AWS üzerinde yazılım ve hizmet satın almak için bir pazaryeridir.
+Savings Plans,AWS Cost Management,Compute Savings; Commitment; Discount;,EC2 Fargate ve Lambda kullanımlarında maliyet tasarrufu sağlayan esnek planlar sunar.
+Amazon Managed Blockchain,Blockchain,Hyperledger; Ethereum; Managed;,Tamamen yönetilen blockchain ağlarını hızlıca kurmak ve yönetmek için hizmettir.
+Amazon Connect,Business Applications,Contact Center; Cloud; Voice;,Bulut tabanlı bir çağrı merkezi hizmetidir.
+Amazon Simple Email Service (SES),Business Applications,Email; SMTP; Notification;,E-posta gönderimi ve pazarlama kampanyaları için yönetilen bir hizmettir.
+AWS App Runner,Compute,Serverless; Web App; Container;,Konteyner veya koddan hızlı bir şekilde web uygulaması dağıtmanıza olanak tanır.
+AWS Auto Scaling,Compute,Scaling; EC2; Automatic;,Kaynakları otomatik olarak ölçeklendirerek uygulamaların performansını optimize eder.
+AWS Batch,Compute,Batch Processing; Job Scheduling;,Büyük ölçekli batch işlerini kolayca çalıştıran yönetilen bir hizmettir.
+Amazon EC2,Compute,Virtual Machine; Compute; Instances;,Ölçeklenebilir bulut sunucuları sağlayan temel bir hizmettir.
+Amazon EC2 Auto Scaling,Compute,Auto Scaling; EC2; Elasticity;,EC2 instance’larını yük durumuna göre otomatik olarak ölçeklendirir.
+AWS Elastic Beanstalk,Compute,PaaS; Web App; Deployment;,Web uygulamalarını hızlıca dağıtmak ve yönetmek için bir platform hizmetidir.
+AWS Fargate,Compute,Serverless; Containers; Compute;,Konteynerleri sunucusuz çalıştırmanıza olanak tanır.
+AWS Lambda,Compute,Serverless; Event-driven; Functions;,Kod çalıştırmak için sunucu yönetimi gerektirmeyen olay tabanlı bir hizmettir.
+Amazon Lightsail,Compute,Virtual Servers; Simplified; Cloud;,Basit web uygulamaları ve sunucular için kolay kullanımlı bir bulut hizmetidir.
+AWS Local Zones,Compute,Low Latency; Edge; Hybrid;,Yerel alanlarda düşük gecikmeli bulut kaynakları sağlar.
+AWS Outposts,Compute,On-premises; Hybrid; Fully Managed;,AWS altyapısını kendi veri merkezinize getirmenizi sağlayan yönetilen hibrit hizmettir.
+AWS Serverless Application Repository,Compute,Serverless; Repository; Lambda;,Sunucusuz uygulamaları paylaşmak ve dağıtmak için bir depodur.
+VMware Cloud on AWS,Compute,VMware; Hybrid; Cloud;,VMware ortamlarını AWS bulutuna genişletmenizi sağlayan bir hibrit bulut hizmetidir.
+AWS Wavelength,Compute,Edge; 5G; Low Latency;,5G uygulamaları için ultra düşük gecikmeli bulut altyapısı sunar.
+Amazon Elastic Container Registry (ECR),Containers,Container Registry; Docker; Images;,Docker container imajlarını depolayıp yönetmek için kullanılan yönetilen bir hizmettir.
+Amazon Elastic Container Service (ECS),Containers,Container Orchestration; Docker; Scalable;,Docker container’ları yönetmek ve çalıştırmak için ölçeklenebilir bir hizmettir.
+Amazon ECS Anywhere,Containers,Hybrid; ECS; On-premises;,Kendi veri merkezinize ECS container’ları dağıtmanıza olanak tanır.
+Amazon Elastic Kubernetes Service (EKS),Containers,Kubernetes; Managed; Orchestration;,Kubernetes uygulamalarını yönetilen şekilde çalıştırmanıza olanak tanır.
+Amazon EKS Anywhere,Containers,Hybrid; Kubernetes; On-premises;,Kendi veri merkezinize Kubernetes dağıtımı sağlar.
+Amazon EKS Distro,Containers,Kubernetes; Distribution; Open-source;,AWS tarafından desteklenen Kubernetes dağıtımıdır.
+AWS Activate for Startups,Customer Engagement,Startup Support; Credits; Training;,Startup’lar için AWS kaynakları ve destek sağlayan bir programdır.
+AWS IQ,Customer Engagement,Expertise; Consultation; Projects;,AWS uzmanlarıyla proje ve danışmanlık hizmeti sağlayan bir platformdur.
+AWS Managed Services (AMS),Customer Engagement,Managed; Operations; Cloud;,AWS bulut ortamlarını yönetilen operasyon hizmetleri ile destekler.
+AWS Support,Customer Engagement,Technical Support; Plans; Trusted Advisor;,AWS hizmetleri için çeşitli destek planları ve tavsiyeler sunar.
+Amazon Aurora,Database,Relational; MySQL; PostgreSQL;,Yüksek performanslı ölçeklenebilir ve yönetilen ilişkisel veritabanı hizmetidir.
+Amazon Aurora Serverless,Database,Serverless; Relational; Auto-scaling;,Talebe göre otomatik ölçeklenen Aurora veritabanı hizmetidir.
+Amazon DocumentDB,Database,Document Database; MongoDB-compatible;,MongoDB uyumlu yönetilen bir belge veritabanı hizmetidir.
+Amazon DynamoDB,Database,NoSQL; Key-Value; Serverless;,Tamamen yönetilen hızlı ve ölçeklenebilir NoSQL veritabanı hizmetidir.
+Amazon ElastiCache,Database,In-memory; Redis; Memcached;,Hafıza içi önbellekleme ve veri depolama için yönetilen bir hizmettir.
+Amazon Keyspaces,Database,Cassandra; Managed; NoSQL;,Apache Cassandra uyumlu yönetilen bir NoSQL veritabanı hizmetidir.
+Amazon MemoryDB for Redis,Database,In-memory; Redis; Durable;,Yüksek performanslı kalıcı Redis tabanlı veri depolama hizmetidir.
+Amazon Neptune,Database,Graph Database; SPARQL; Gremlin;,Yönetilen bir grafik veritabanı hizmetidir.
+Amazon Quantum Ledger Database (QLDB),Database,Ledger; Immutable; Transaction;,Tamamen yönetilen değiştirilemez bir kayıt defteri veritabanı hizmetidir.
+Amazon RDS,Database,Relational Database; SQL; Managed;,Yönetilen ilişkisel veritabanları sağlayan temel AWS hizmetidir.
+Amazon RDS on VMware,Database,Hybrid; VMware; Relational;,VMware ortamında RDS veritabanları çalıştırmanıza olanak tanır.
+Amazon Redshift,Database,Data Warehouse; SQL; Analytics;,Yüksek performanslı veri ambarı ve analiz hizmetidir.
+Amazon Timestream,Database,Time Series; IoT; Analytics;,Zaman serisi verileri için yönetilen veritabanı hizmetidir.
+AWS AppConfig,Developer Tools,Configuration; Deployment; Rollout;,Uygulama yapılandırmalarını güvenli şekilde dağıtmanızı ve yönetmenizi sağlar.
+AWS CLI,Developer Tools,Command Line; Automation; SDK;,AWS servislerini komut satırından yönetmenizi sağlayan araçtır.
+AWS Cloud9,Developer Tools,IDE; Cloud; Development;,Bulut tabanlı tam özellikli bir IDE sunar ve kodlamayı kolaylaştırır.
+AWS Cloud Development Kit (CDK),Developer Tools,Infrastructure as Code; TypeScript; Python;,Kod yazarak bulut altyapısı oluşturmanızı ve yönetmenizi sağlar.
+AWS CloudShell,Developer Tools,Terminal; Browser-based; CLI;,Tarayıcı tabanlı terminal ile AWS kaynaklarını hızlı yönetmenizi sağlar.
+AWS CodeArtifact,Developer Tools,Package Management; Repository; Maven;,Yazılım paketlerini güvenli şekilde depolayıp yönetmenizi sağlar.
+AWS CodeBuild,Developer Tools,Continuous Integration; Build; Automation;,Kodunuzu derleyen ve test eden tam yönetilen CI hizmetidir.
+AWS CodeCommit,Developer Tools,Git; Repository; Version Control;,AWS üzerinde güvenli bir Git tabanlı kaynak kodu depolama hizmetidir.
+AWS CodeDeploy,Developer Tools,Deployment; Automation; EC2;,Uygulamaları EC2 veya Lambda’ya otomatik dağıtmanızı sağlar.
+AWS CodePipeline,Developer Tools,CI/CD; Automation; Pipeline;,Uygulama teslim süreçlerini otomatikleştiren sürekli teslim (CD) hizmetidir.
+AWS CodeStar,Developer Tools,Project Management; CI/CD; Collaboration;,Yazılım geliştirme projelerini hızlı başlatmanızı ve yönetmenizi sağlar.
+Amazon CodeGuru,Developer Tools,Code Review; Profiling; AI;,Kod kalitesini artırmak için öneriler sunan yapay zekâ destekli hizmettir.
+Amazon Corretto,Developer Tools,Java; Runtime; OpenJDK;,Ücretsiz üretime hazır uzun vadeli destekli Java dağıtımıdır.
+AWS Fault Injection Simulator (FIS),Developer Tools,Chaos Engineering; Testing; Resilience;,Bulut uygulamalarını test etmek ve dayanıklılığını artırmak için simülasyon hizmetidir.
+AWS Tools and SDKs,Developer Tools,API; SDK; Language Support;,AWS servislerini programlı olarak kullanabilmenizi sağlayan araç ve kütüphanelerdir.
+AWS X-Ray,Developer Tools,Tracing; Monitoring; Debugging;,Dağıtık uygulamalardaki performans sorunlarını ve hataları izleyip analiz eder.
+Amazon AppStream 2.0,End User Computing,Virtual Desktop; Streaming; Application;,Uygulamaları tarayıcı üzerinden güvenli şekilde yayınlamanızı sağlar.
+Amazon WorkSpaces,End User Computing,Virtual Desktop; Windows; Linux;,Tam yönetilen sanal masaüstü hizmetidir.
+Amazon WorkSpaces Web,End User Computing,Browser; Web App; Virtual Desktop;,Web tarayıcısı üzerinden sanal masaüstü erişimi sağlar.
+AWS Amplify,Frontend Web and Mobile,Mobile App; Frontend; Hosting;,Web ve mobil uygulamaları hızlı şekilde geliştirmek ve dağıtmak için platformdur.
+AWS AppSync,Frontend Web and Mobile,GraphQL; API; Real-time;,Gerçek zamanlı veri senkronizasyonu ve GraphQL API yönetimi sunar.
+Amazon API Gateway,Frontend Web and Mobile,REST; API; Serverless;,API’leri oluşturmanızı yayınlamanızı ve yönetmenizi sağlayan hizmettir.
+AWS Device Farm,Frontend Web and Mobile,Mobile Testing; Real Devices;,Mobil uygulamaları gerçek cihazlarda test etmenizi sağlar.
+Amazon Pinpoint,Frontend Web and Mobile,User Engagement; Analytics; Messaging;,Kullanıcı etkileşimi ve pazarlama mesajları yönetimi hizmetidir.
+Amazon Location Service,Frontend Web and Mobile,Maps; Geolocation; Tracking;,Konum tabanlı uygulamalar için harita ve izleme hizmeti sunar.
+Amazon GameLift,Game Tech,Game Server; Multiplayer; Scaling;,Çok oyunculu oyunlar için ölçeklenebilir oyun sunucusu hizmetidir.
+Amazon Lumberyard,Game Tech,Game Engine; 3D; Development;,Ücretsiz 3D oyun motoru ve geliştirme ortamıdır.
+AWS IoT Core,Internet of Things,Device Connectivity; MQTT; Management;,IoT cihazlarını güvenli şekilde bağlamanızı ve yönetmenizi sağlar.
+AWS IoT Greengrass,Internet of Things,Edge Computing; Lambda; Offline;,IoT cihazlarında lokal olarak veri işleme ve Lambda çalıştırma sağlar.
+AWS IoT Device Defender,Internet of Things,Security; Audit; Monitoring;,IoT cihazlarının güvenliğini izler ve tehditleri yönetir.
+AWS IoT Device Management,Internet of Things,Provisioning; Organization; Fleet Management;,IoT cihazlarının kayıt organize ve yönetilmesini sağlar.
+AWS IoT Events,Internet of Things,Event Detection; IoT; Alerts;,IoT cihazlarından gelen verilerde olay tespiti ve alarm oluşturur.
+AWS IoT SiteWise,Internet of Things,Industrial IoT; Analytics; Data Modeling;,Endüstriyel ekipman verilerini toplayıp analiz etmenizi sağlar.
+AWS IoT Things Graph,Internet of Things,Workflow; IoT; Modeling;,IoT cihazlarını birbirine bağlamak ve iş akışları oluşturmak için kullanılır.
+AWS IoT 1-Click,Internet of Things,One-click; IoT; Simple Deployment;,Tek tıklama ile IoT cihazlarını etkinleştirme ve veri göndermeyi sağlar.
+Amazon Comprehend,Machine Learning,Natural Language Processing; Text Analysis;,Metinleri anlamak ve duygu analizi yapmak için yapay zekâ hizmetidir.
+Amazon Forecast,Machine Learning,Time Series; Forecasting; Predictive Analytics;,Tarihsel verilere dayalı tahminler oluşturmak için ML hizmetidir.
+Amazon Fraud Detector,Machine Learning,Fraud Detection; Real-time;,Gerçek zamanlı dolandırıcılık tespiti yapmak için yönetilen ML hizmetidir.
+Amazon Kendra,Machine Learning,Enterprise Search; AI; NLP;,Kurumsal belgelerde akıllı arama ve bilgi bulma hizmetidir.
+Amazon Lex,Machine Learning,Chatbot; NLP; Voice;,Konuşma ve yazılı metinle etkileşim kurabilen chatbotlar oluşturmanızı sağlar.
+Amazon Polly,Machine Learning,Text-to-Speech; Voice;,Metni doğal insan sesiyle konuşmaya çeviren hizmettir.
+Amazon Rekognition,Machine Learning,Image Analysis; Video Analysis; Face Detection;,Görüntü ve video analizleri için yapay zekâ tabanlı hizmettir.
+Amazon SageMaker,Machine Learning,Training; Inference; ML Workflow;,Makine öğrenimi modelleri oluşturmak eğitmek ve dağıtmak için tam yönetilen bir platformdur.
+Amazon Textract,Machine Learning,OCR; Document Analysis;,Belgelerden otomatik veri çıkarımı yapar.
+Amazon Transcribe,Machine Learning,Speech-to-Text; Audio;,Sesli konuşmayı metne çevirir.
+Amazon Translate,Machine Learning,Language Translation; Neural;,Yazılı metinleri çoklu dillere çevirir.
+Apache MXNet on AWS,Machine Learning,Deep Learning; Framework;,AWS üzerinde MXNet ile derin öğrenme modelleri oluşturma ve eğitme hizmetidir.
+Amazon Augmented AI (A2I),Machine Learning,Human Review; ML Integration;,Makine öğrenimi tahminleri için insan denetimi ekler.
+AWS DeepComposer,Machine Learning,Music Generation; AI;,Yapay zekâ ile müzik kompozisyonu oluşturma deneyimi sağlar.
+AWS Deep Learning AMIs,Machine Learning,Prebuilt; Deep Learning; EC2;,Derin öğrenme için önceden yapılandırılmış AMI’ler sunar.
+AWS Deep Learning Containers,Machine Learning,Docker; Deep Learning; Prebuilt;,Deep Learning uygulamaları için konteyner tabanlı ortam sunar.
+AWS DeepLens,Machine Learning,Computer Vision; Edge; Camera;,Kamera tabanlı görsel analiz ve ML uygulamaları için bir cihazdır.
+AWS DeepRacer,Machine Learning,Reinforcement Learning; Racing; Autonomous;,Otonom yarış arabaları ile pekiştirmeli öğrenme deneyimi sağlar.
+Amazon DevOps Guru,Machine Learning,Operational Insights; Anomaly Detection;,Uygulama operasyonlarını izleyip anormallikleri tespit eden ML tabanlı hizmettir.
+Amazon Elastic Inference,Machine Learning,Accelerator; Inference; Cost-efficient;,Makine öğrenimi tahminleri için GPU hızlandırması sağlar.
+Amazon HealthLake,Machine Learning,Healthcare; Data Lake; FHIR;,Sağlık verilerini standart FHIR formatında toplayıp analiz eder.
+AWS Inferentia,Machine Learning,ML Inference; Custom Chip;,Makine öğrenimi tahminleri için özel tasarlanmış AWS donanım hizmetidir.
+Amazon Lookout for Equipment,Machine Learning,Predictive Maintenance; IoT;,Ekipman arızalarını tahmin etmek için IoT ve ML analizi sağlar.
+Amazon Lookout for Metrics,Machine Learning,Anomaly Detection; Metrics;,İş ve operasyon metriklerinde anormallik tespiti yapar.
+Amazon Lookout for Vision,Machine Learning,Computer Vision; Quality Control;,Görüntüleri analiz ederek kalite sorunlarını tespit eder.
+Amazon Monitron,Machine Learning,IoT; Predictive Maintenance;,Endüstriyel ekipmanlar için IoT ve ML tabanlı izleme sağlar.
+AWS Panorama,Machine Learning,Edge AI; Video Analysis;,Kamera ve video verilerini yerel olarak analiz eden Edge AI hizmetidir.
+Amazon Personalize,Machine Learning,Recommendation; Personalization;,Gerçek zamanlı kişiselleştirilmiş öneriler sunar.
+PyTorch on AWS,Machine Learning,Deep Learning; Framework;,AWS üzerinde PyTorch kullanarak derin öğrenme modelleri geliştirin.
+TensorFlow on AWS,Machine Learning,Deep Learning; Framework;,AWS üzerinde TensorFlow kullanarak ML modelleri oluşturun ve eğitin.
+Amazon SageMaker Data Wrangler,Machine Learning,Data Preparation; Feature Engineering;,Makine öğrenimi için verileri hızlı şekilde hazırlayıp dönüştürür.
+Amazon SageMaker Ground Truth,Machine Learning,Data Labeling; ML Training;,Makine öğrenimi için etiketli veri setleri oluşturur.
+AWS Auto Scaling,Management and Governance,Scaling; EC2; Elasticity;,Kaynakları otomatik olarak ölçeklendirir ve optimize eder.
+AWS Chatbot,Management and Governance,Notifications; ChatOps; Slack;,AWS hizmet bildirimlerini Slack veya Chime üzerinden iletir.
+AWS CloudFormation,Management and Governance,Infrastructure as Code; Templates;,Bulut altyapısını kod ile yönetmenizi sağlar.
+AWS CloudTrail,Management and Governance,Logging; Auditing; Governance;,AWS hesap etkinliklerini kaydeder ve denetim sağlar.
+Amazon CloudWatch,Management and Governance,Monitoring; Metrics; Logs;,AWS kaynaklarını izleme ve alarm oluşturma hizmetidir.
+Amazon CloudWatch Logs,Management and Governance,Logging; Analysis;,Uygulama ve sistem loglarını toplar ve analiz eder.
+AWS Command Line Interface (CLI),Management and Governance,Automation; Scripting;,AWS kaynaklarını komut satırından yönetmenizi sağlar.
+AWS Compute Optimizer,Management and Governance,Resource Optimization; Recommendations;,AWS kaynakları için performans ve maliyet önerileri sunar.
+AWS Config,Management and Governance,Compliance; Resource Tracking;,AWS kaynak değişikliklerini izler ve uyumluluk denetimi yapar.
+AWS Control Tower,Management and Governance,Multi-account; Governance; Setup;,Çoklu AWS hesaplarını merkezi yönetim ve uyumluluk ile kurar.
+AWS Distro for OpenTelemetry,Management and Governance,Tracing; Metrics; Open-source;,Dağıtık uygulamalarda telemetri toplamanızı sağlar.
+AWS Health Dashboard,Management and Governance,Service Health; Notifications;,AWS servis durumunu ve bildirimlerini görüntüler.
+AWS Launch Wizard,Management and Governance,Deployment; Guidance;,Kurumsal uygulamaların hızlı ve doğru dağıtımını sağlar.
+AWS License Manager,Management and Governance,License Tracking; Compliance;,Yazılım lisanslarını yönetir ve uyumluluğu sağlar.
+Amazon Managed Grafana,Management and Governance,Monitoring; Visualization;,Grafana tabanlı izleme ve görselleştirme hizmetidir.
+Amazon Managed Service for Prometheus,Management and Governance,Monitoring; Metrics;,Prometheus tabanlı izleme ve veri toplama hizmetidir.
+AWS Management Console,Management and Governance,Web UI; Cloud Management;,AWS kaynaklarını yönetmek için web tabanlı arayüz sağlar.
+AWS Organizations,Management and Governance,Multi-account; Management;,Çoklu AWS hesaplarını merkezi olarak yönetmenizi sağlar.
+AWS Proton,Management and Governance,Application Deployment; DevOps;,Mikroservis ve uygulama dağıtımlarını otomatikleştirir.
+AWS Resource Groups and Tag Editor,Management and Governance,Tagging; Organization;,AWS kaynaklarını gruplandırıp yönetmeyi kolaylaştırır.
+AWS Service Catalog,Management and Governance,Catalog; Predefined Products;,Kurumsal kullanım için onaylanmış ürünleri sunar.
+Service Quotas,Management and Governance,Limits; Resource Management;,AWS servisleri için kota ve limitleri yönetir.
+AWS Systems Manager,Management and Governance,Automation; Management; Monitoring;,AWS kaynaklarını merkezi olarak yönetir ve otomasyon sağlar.
+AWS Trusted Advisor,Management and Governance,Best Practices; Optimization;,AWS kaynakları için en iyi uygulama ve maliyet önerileri sunar.
+AWS Well-Architected Tool,Management and Governance,Best Practices; Review;,Uygulamalarınızı AWS Well-Architected Framework’e göre değerlendirir.
+AWS OpsWorks,Management and Governance,Configuration Management; Chef; Puppet;,Sunucu konfigürasyonlarını otomatikleştiren yönetilen hizmettir.
+AWS Console Mobile Application,Management and Governance,Mobile; Cloud Management;,AWS kaynaklarını mobil cihaz üzerinden yönetmenizi sağlar.
+AWS Elemental Appliances and Software,Media Services,Video Processing; Encoding; Broadcast;,Video içeriklerini kodlama işleme ve dağıtma hizmetidir.
+AWS Elemental MediaConnect,Media Services,Live Video; Transport; Contribution;,Canlı video akışlarını güvenli ve yüksek kaliteli şekilde taşır.
+AWS Elemental MediaConvert,Media Services,File-based Video; Encoding; Transcoding;,Video dosyalarını farklı formatlara dönüştürmek için yönetilen hizmettir.
+AWS Elemental MediaLive,Media Services,Live Video; Encoding; Streaming;,Canlı video yayınları için gerçek zamanlı kodlama hizmetidir.
+AWS Elemental MediaPackage,Media Services,Video Packaging; DRM; Streaming;,Video içeriklerini farklı cihazlar için paketler ve korur.
+AWS Elemental MediaStore,Media Services,Storage; Video; Low Latency;,Video içeriklerini düşük gecikmeli depolar ve sunar.
+AWS Elemental MediaTailor,Media Services,Ad Insertion; Video;,Video akışlarına reklam ekleme ve kişiselleştirme sağlar.
+Amazon Elastic Transcoder,Media Services,Media Conversion; Cloud;,Video ve ses dosyalarını kolayca dönüştürür.
+Amazon Kinesis Video Streams,Media Services,Video Streaming; IoT;,Video akışlarını güvenli şekilde alır depolar ve analiz eder.
+Amazon Interactive Video Service (IVS),Media Services,Live Streaming; Low Latency;,Düşük gecikmeli canlı video yayınları için yönetilen hizmettir.
+AWS Application Discovery Service,Migration and Transfer,Application Assessment; Dependency Mapping;,Yerel uygulamaları keşfederek buluta taşımayı planlamayı sağlar.
+AWS Application Migration Service,Migration and Transfer,Server Migration; Rehost;,Sunucuları buluta hızlı ve kolay bir şekilde taşımanızı sağlar.
+AWS Database Migration Service (DMS),Migration and Transfer,Database Migration; Continuous Replication;,Veritabanlarını kesintisiz şekilde buluta veya bulutlar arası taşır.
+AWS DataSync,Migration and Transfer,Data Transfer; Automation;,Veri aktarımını hızlı ve güvenli şekilde otomatikleştirir.
+AWS Migration Hub,Migration and Transfer,Migration Tracking; Multi-Service;,Bulut geçiş süreçlerini merkezi olarak izler ve yönetir.
+AWS Schema Conversion Tool (SCT),Migration and Transfer,Database; Schema; Conversion;,Veritabanı şemalarını bir platformdan diğerine dönüştürür.
+AWS Snow Family,Migration and Transfer,Edge Computing; Data Transfer; Offline;,Büyük veri setlerini çevrimdışı olarak taşıma ve işleme imkanı sunar.
+AWS Transfer Family,Migration and Transfer,SFTP; FTPS; FTP;,Bulut ortamında güvenli dosya aktarımı için yönetilen hizmettir.
+Migration Evaluator,Migration and Transfer,Assessment; Cost Estimation;,Mevcut altyapıyı değerlendirip buluta taşımak için maliyet tahmini sağlar.
+Amazon API Gateway,Networking and Content Delivery,REST; API; Serverless;,API oluşturma yayınlama ve yönetim hizmetidir.
+Amazon CloudFront,Networking and Content Delivery,CDN; Caching; Global Distribution;,İçerikleri düşük gecikme ile global olarak dağıtmak için CDN hizmetidir.
+AWS Direct Connect,Networking and Content Delivery,Dedicated Network; Private Connection;,AWS ile veri merkezi arasında özel ağ bağlantısı sağlar.
+Elastic Load Balancing (ELB),Networking and Content Delivery,Load Balancer; Traffic Distribution;,Trafiği birden fazla hedefe dağıtarak uygulama ölçeklenebilirliğini artırır.
+AWS Global Accelerator,Networking and Content Delivery,Traffic Routing; Performance;,Küresel kullanıcılar için uygulama performansını artırır.
+AWS PrivateLink,Networking and Content Delivery,Private Endpoint; VPC;,AWS servislerini özel ağ üzerinden erişilebilir kılar.
+Amazon Route 53,Networking and Content Delivery,DNS; Domain; Traffic Routing;,Alan adı yönetimi ve DNS yönlendirme hizmeti sunar.
+AWS Transit Gateway,Networking and Content Delivery,VPC Interconnect; Networking;,VPC’ler ve yerel ağlar arasında trafik yönlendirme sağlar.
+Amazon VPC,Networking and Content Delivery,Virtual Network; Subnet; Security;,AWS kaynaklarını izole edilmiş sanal ağlarda çalıştırır.
+AWS VPN / AWS Site-to-Site VPN / AWS Client VPN,Networking and Content Delivery,Secure Connection; Encrypted;,AWS ve yerel ağ arasında güvenli VPN bağlantısı sağlar.
+AWS App Mesh,Networking and Content Delivery,Service Mesh; Microservices;,Mikroservisler arasında güvenli ve gözlemlenebilir iletişim sağlar.
+AWS Cloud Map,Networking and Content Delivery,Service Discovery; Microservices;,Uygulama kaynaklarını dinamik olarak keşfetmenizi sağlar.
+Amazon Braket,Quantum Technologies,Quantum Computing; Simulations;,Kuantum algoritmalarını geliştirmek ve çalıştırmak için bulut tabanlı hizmettir.
+AWS RoboMaker,Robotics,Simulation; Robot; AI;,Robotik uygulamalarını geliştirmek simüle etmek ve test etmek için yönetilen platformdur.
+AWS Ground Station,Satellite,Satellite Communication; Antenna;,Uydularla iletişim kurmak ve veri almak için yer tabanlı istasyon hizmetidir.
+AWS Artifact,Security,Compliance; Audit;,AWS uyumluluk belgelerine ve raporlarına erişim sağlar.
+AWS Audit Manager,Security,Automated Assessment; Compliance;,Uyumluluk denetim süreçlerini otomatikleştirir.
+AWS Certificate Manager (ACM),Security,SSL/TLS; Certificates;,Web siteleri ve uygulamalar için SSL/TLS sertifikalarını yönetir.
+AWS CloudHSM,Security,Hardware Security Module; Encryption;,Kendi anahtarlarınızı güvenli bir şekilde donanım tabanlı HSM’de saklarsınız.
+Amazon Cognito,Security,User Authentication; Identity Management;,Uygulamalar için kullanıcı kimlik doğrulama ve yönetim hizmetidir.
+Amazon Detective,Security,Threat Analysis; Investigation;,Güvenlik olaylarını analiz edip nedenlerini araştırmanıza yardımcı olur.
+AWS Directory Service,Security,Active Directory; LDAP;,Yönetilen Microsoft Active Directory hizmetidir.
+AWS Firewall Manager,Security,Security Policy; WAF;,AWS WAF ve güvenlik politikalarını merkezi olarak yönetir.
+Amazon GuardDuty,Security,Threat Detection; Continuous Monitoring;,AWS hesaplarında sürekli tehdit algılama hizmetidir.
+AWS IAM Identity Center,Security,SSO; Identity Management;,Kullanıcılar ve gruplar için merkezi erişim yönetimi sağlar.
+AWS Identity and Access Management (IAM),Security,User Permissions; Security;,AWS kaynaklarına erişimi güvenli şekilde kontrol eder.
+Amazon Inspector,Security,Security Assessment; Vulnerability;,Uygulamaların güvenlik açığı ve uyumluluk değerlendirmelerini yapar.
+AWS Key Management Service (KMS),Security,Encryption; Key Management;,Veri şifreleme anahtarlarını yönetmek ve kullanmak için hizmettir.
+Amazon Macie,Security,Data Discovery; PII;,Hassas verileri ve kişisel bilgileri tespit eder ve korur.
+AWS Network Firewall,Security,Network Protection; VPC;,VPC’lerde güvenlik duvarı kuralları ile ağ trafiğini korur.
+AWS Resource Access Manager (RAM),Security,Resource Sharing; VPC;,AWS kaynaklarını güvenli şekilde paylaşmanızı sağlar.
+AWS Secrets Manager,Security,Secret Storage; Credential Management;,API anahtarları ve şifreler gibi gizli bilgileri güvenli şekilde saklar.
+AWS Security Hub,Security,Security Dashboard; Aggregation;,AWS ortamındaki güvenlik uyarılarını merkezi olarak yönetir.
+AWS Security Token Service (STS),Security,Temporary Credentials; Federation;,Geçici güvenlik kimlik bilgileri sağlayarak erişimi kontrol eder.
+AWS Shield,Security,DDoS Protection; Mitigation;,AWS kaynaklarını DDoS saldırılarına karşı korur.
+AWS WAF,Security,Web Application Firewall; Rules;,Web uygulamalarını yaygın saldırılara karşı korur.
+AWS Lambda,Serverless,Serverless; Event-driven; Functions;,Olay tabanlı olarak kod çalıştırmak için sunucu yönetimi gerektirmez.
+AWS Fargate,Serverless,Serverless; Containers; Compute;,Konteynerleri sunucusuz çalıştırmanıza olanak tanır.
+AWS AppSync,Serverless,GraphQL; API; Real-time;,Gerçek zamanlı veri senkronizasyonu ve GraphQL API yönetimi sunar.
+AWS Backup,Storage,Backup; Automated; Managed;,AWS kaynaklarını merkezi olarak yedekler ve kurtarma sağlar.
+Amazon EBS,Storage,Block Storage; EC2;,EC2 instance’ları için yüksek performanslı blok depolama sağlar.
+Amazon EFS,Storage,File Storage; Shared Access;,Birden fazla EC2 instance’ı arasında paylaşımlı dosya sistemi sağlar.
+AWS Elastic Disaster Recovery,Storage,DR; Replication; Recovery;,Kritik uygulamaların felaket kurtarma planlarını yönetir.
+Amazon FSx,Storage,File System; Windows; Lustre;,Windows veya Lustre tabanlı yönetilen dosya sistemleri sunar.
+Amazon S3,Storage,Object Storage; Scalability;,Her türden veri için ölçeklenebilir ve dayanıklı nesne depolama hizmetidir.
+Amazon S3 Glacier,Storage,Archival; Low-cost;,Uzun vadeli veri arşivleme için düşük maliyetli depolama sağlar.
+AWS Storage Gateway,Storage,Hybrid Storage; On-premises;,Yerel veri merkezlerini bulut depolama ile entegre eder.
