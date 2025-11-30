@@ -1,0 +1,218 @@
+Service Name,Category,Keywords,Description
+Amazon Athena,Analytics,Interactive Query; Serverless; SQL;,Serverless analytics service that allows you to run SQL queries directly on S3.
+AWS Data Exchange,Analytics,Data Marketplace; Subscription; Data Sharing;,"Service to discover, subscribe to, and share datasets from various data providers."
+AWS Data Pipeline,Analytics,Data Workflow; ETL; Scheduling;,Service that automates data workflows and simplifies data movement and transformation.
+Amazon EMR (Map Reduce),Analytics,Hadoop; Spark; Big Data;,Scalable managed Hadoop and Spark service to run big data workloads easily.
+AWS Glue,Analytics,ETL; Data Catalog; Serverless;,"Serverless ETL service that automates data discovery, preparation, and integration."
+Amazon Kinesis,Analytics,Streaming; Real-time; Data;,"Service that collects, processes, and analyzes real-time data streams."
+Amazon Kinesis Data Streams,Analytics,Real-time; Stream Processing; Shards;,Scalable streaming data service for real-time big data processing.
+Amazon Kinesis Data Firehose,Analytics,Streaming; Delivery; S3;,"Service that automatically delivers streaming data to Amazon S3, Redshift, or Elasticsearch."
+Amazon Managed Streaming for Apache Kafka (Amazon MSK),Analytics,Kafka; Managed; Streaming;,"Fully managed, scalable Apache Kafka service."
+Amazon Managed Service for Apache Flink,Analytics,Flink; Stream Processing; Managed;,Managed Apache Flink service for real-time stream processing.
+Amazon OpenSearch Service,Analytics,Search; Analytics; Elasticsearch;,"Managed search service for data search, analysis, and visualization."
+Amazon QuickSight,Analytics,Business Intelligence; Visualization; Dashboard;,Fast cloud-based business intelligence and data visualization service.
+AWS Lake Formation,Analytics,Data Lake; Catalog; Security;,Service to quickly set up and securely manage data lakes.
+Amazon CloudSearch,Analytics,Search; Managed; Full-text;,Managed search service providing search functionality for web and applications.
+Amazon AppFlow,Application Integration,Data Integration; SaaS; Workflow;,Service that securely and automatically provides data flows between different applications.
+Amazon EventBridge,Application Integration,Event Bus; Serverless; Event-driven;,Managed service that enables event-driven data transfer between applications.
+Amazon MQ,Application Integration,Message Broker; ActiveMQ; RabbitMQ;,Fully managed message broker service facilitating communication between applications.
+Amazon Simple Notification Service (SNS),Application Integration,Pub/Sub; Messaging; Notifications;,Managed service used to send messages and notifications between applications.
+Amazon Simple Queue Service (SQS),Application Integration,Queue; Messaging; Decoupling;,Service used to decouple application components and provide asynchronous communication via message queues.
+AWS Step Functions,Application Integration,Workflow; State Machine; Orchestration;,Service that visually orchestrates and automates workflows across different services.
+Amazon Managed Workflows for Apache Airflow (MWAA),Application Integration,Airflow; Managed; Workflow;,Service to run Apache Airflow workflows in a managed environment.
+Amazon Sumerian,AR and VR,3D; AR; VR;,Cloud-based platform to create AR/VR scenes and applications.
+AWS Billing Conductor,AWS Cost Management,Billing; Custom Pricing; Cost Allocation;,Cost management service allowing customization and allocation of AWS billing.
+AWS Budgets,AWS Cost Management,Budget; Alerts; Cost Tracking;,Service to monitor AWS costs and usage against budget targets.
+AWS Cost and Usage Report,AWS Cost Management,Cost Report; Usage Report; CSV;,Service that provides detailed reports on AWS usage and costs.
+AWS Cost Explorer,AWS Cost Management,Cost Visualization; Analytics;,Service to analyze and visualize AWS cost trends.
+AWS Marketplace,AWS Cost Management,Software Marketplace; SaaS; AMI;,"Marketplace to discover, purchase, and deploy software and services on AWS."
+Savings Plans,AWS Cost Management,Compute Savings; Commitment; Discount;,"Flexible plans to save costs for EC2, Fargate, and Lambda usage."
+Amazon Managed Blockchain,Blockchain,Hyperledger; Ethereum; Managed;,Service to quickly create and manage fully managed blockchain networks.
+Amazon Connect,Business Applications,Contact Center; Cloud; Voice;,Cloud-based contact center service.
+Amazon Simple Email Service (SES),Business Applications,Email; SMTP; Notification;,Managed service for sending emails and marketing campaigns.
+AWS App Runner,Compute,Serverless; Web App; Container;,Enables fast deployment of web applications from containers or code.
+AWS Batch,Compute,Batch Processing; Job Scheduling;,Managed service for running large-scale batch processing jobs efficiently.
+Amazon EC2,Compute,Virtual Machine; Compute; Instances;,Core service providing scalable cloud virtual servers.
+Amazon EC2 Auto Scaling,Compute,Auto Scaling; EC2; Elasticity;,Automatically scales EC2 instances based on load.
+AWS Elastic Beanstalk,Compute,PaaS; Web App; Deployment;,Platform service for quickly deploying and managing web applications.
+Amazon Lightsail,Compute,Virtual Servers; Simplified; Cloud;,Simple cloud service for small web applications and servers.
+AWS Local Zones,Compute,Low Latency; Edge; Hybrid;,Provides low-latency cloud resources near end users.
+AWS Outposts,Compute,On-premises; Hybrid; Fully Managed;,Managed hybrid service that brings AWS infrastructure to your data center.
+AWS Serverless Application Repository,Compute,Serverless; Repository; Lambda;,Repository for sharing and deploying serverless applications.
+VMware Cloud on AWS,Compute,VMware; Hybrid; Cloud;,Hybrid cloud service to extend VMware environments into AWS.
+AWS Wavelength,Compute,Edge; 5G; Low Latency;,Ultra-low latency cloud infrastructure for 5G applications.
+Amazon Elastic Container Registry (ECR),Containers,Container Registry; Docker; Images;,Managed service to store and manage Docker container images.
+Amazon Elastic Container Service (ECS),Containers,Container Orchestration; Docker; Scalable;,Scalable service for running and managing Docker containers.
+Amazon ECS Anywhere,Containers,Hybrid; ECS; On-premises;,Enables deploying ECS containers to your on-premises environment.
+Amazon Elastic Kubernetes Service (EKS),Containers,Kubernetes; Managed; Orchestration;,Managed Kubernetes service for running containerized applications.
+Amazon EKS Anywhere,Containers,Hybrid; Kubernetes; On-premises;,Provides Kubernetes deployment to on-premises environments.
+Amazon EKS Distro,Containers,Kubernetes; Distribution; Open-source;,AWS-supported Kubernetes distribution.
+AWS Activate for Startups,Customer Engagement,Startup Support; Credits; Training;,Program providing startups with AWS resources and support.
+AWS IQ,Customer Engagement,Expertise; Consultation; Projects;,Platform to hire AWS experts for projects and consulting.
+AWS Managed Services (AMS),Customer Engagement,Managed; Operations; Cloud;,Managed operations service for AWS cloud environments.
+AWS Support,Customer Engagement,Technical Support; Plans; Trusted Advisor;,Provides support plans and recommendations for AWS services.
+Amazon Aurora,Database,Relational; MySQL; PostgreSQL;,"High-performance, scalable, managed relational database service."
+Amazon Aurora Serverless,Database,Serverless; Relational; Auto-scaling;,Aurora database service that scales automatically based on demand.
+Amazon DocumentDB,Database,Document Database; MongoDB-compatible;,Managed document database service compatible with MongoDB.
+Amazon DynamoDB,Database,NoSQL; Key-Value; Serverless;,"Fully managed, fast, and scalable NoSQL database service."
+Amazon ElastiCache,Database,In-memory; Redis; Memcached;,Managed service for in-memory caching and data storage.
+Amazon Keyspaces,Database,Cassandra; Managed; NoSQL;,Managed NoSQL database service compatible with Apache Cassandra.
+Amazon MemoryDB for Redis,Database,In-memory; Redis; Durable;,"High-performance, durable Redis-based data storage service."
+Amazon Neptune,Database,Graph Database; SPARQL; Gremlin;,Managed graph database service.
+Amazon Quantum Ledger Database (QLDB),Database,Ledger; Immutable; Transaction;,Fully managed immutable ledger database service.
+Amazon RDS,Database,Relational Database; SQL; Managed;,Core managed service providing relational databases.
+Amazon RDS on VMware,Database,Hybrid; VMware; Relational;,Enables running RDS databases in VMware environments.
+Amazon Timestream,Database,Time Series; IoT; Analytics;,Managed database service for time series data.
+AWS AppConfig,Developer Tools,Configuration; Deployment; Rollout;,Enables secure distribution and management of application configurations.
+AWS CLI,Developer Tools,Command Line; Automation; SDK;,Tool to manage AWS services via command line.
+AWS Cloud9,Developer Tools,IDE; Cloud; Development;,Cloud-based full-featured IDE for coding and development.
+AWS Cloud Development Kit (CDK),Developer Tools,Infrastructure as Code; TypeScript; Python;,Allows infrastructure management using code.
+AWS CloudShell,Developer Tools,Terminal; Browser-based; CLI;,Browser-based terminal for quick AWS resource management.
+AWS CodeArtifact,Developer Tools,Package Management; Repository; Maven;,Securely store and manage software packages.
+AWS CodeBuild,Developer Tools,Continuous Integration; Build; Automation;,Fully managed CI service to build and test code.
+AWS CodeCommit,Developer Tools,Git; Repository; Version Control;,Secure Git-based source code repository on AWS.
+AWS CodeDeploy,Developer Tools,Deployment; Automation; EC2;,Enables automatic deployment of applications to EC2 or Lambda.
+AWS CodePipeline,Developer Tools,CI/CD; Automation; Pipeline;,Continuous delivery service for automating software deployment pipelines.
+AWS CodeStar,Developer Tools,Project Management; CI/CD; Collaboration;,Service to quickly start and manage software development projects.
+Amazon CodeGuru,Developer Tools,Code Review; Profiling; AI;,AI-powered service that provides recommendations to improve code quality.
+Amazon Corretto,Developer Tools,Java; Runtime; OpenJDK;,"Free, production-ready long-term supported Java distribution."
+AWS Fault Injection Simulator (FIS),Developer Tools,Chaos Engineering; Testing; Resilience;,Simulation service to test cloud applications and improve resiliency.
+AWS Tools and SDKs,Developer Tools,API; SDK; Language Support;,Tools and SDKs for programmatic access to AWS services.
+AWS X-Ray,Developer Tools,Tracing; Monitoring; Debugging;,Service to monitor and analyze performance issues and errors in distributed applications.
+Amazon AppStream 2.0,End User Computing,Virtual Desktop; Streaming; Application;,Allows secure browser-based publishing of applications.
+Amazon WorkSpaces,End User Computing,Virtual Desktop; Windows; Linux;,Fully managed virtual desktop service.
+Amazon WorkSpaces Web,End User Computing,Browser; Web App; Virtual Desktop;,Browser-based access to virtual desktops.
+AWS Amplify,Frontend Web and Mobile,Mobile App; Frontend; Hosting;,Platform for rapid development and deployment of web and mobile apps.
+AWS Device Farm,Frontend Web and Mobile,Mobile Testing; Real Devices;,Allows testing mobile applications on real devices.
+Amazon Pinpoint,Frontend Web and Mobile,User Engagement; Analytics; Messaging;,Service to manage user engagement and marketing messages.
+Amazon Location Service,Frontend Web and Mobile,Maps; Geolocation; Tracking;,Provides mapping and tracking services for location-based apps.
+Amazon GameLift,Game Tech,Game Server; Multiplayer; Scaling;,Scalable game server hosting service for multiplayer games.
+Amazon Lumberyard,Game Tech,Game Engine; 3D; Development;,Free 3D game engine and development environment.
+AWS IoT Core,Internet of Things,Device Connectivity; MQTT; Management;,Service to securely connect and manage IoT devices.
+AWS IoT Greengrass,Internet of Things,Edge Computing; Lambda; Offline;,Local data processing and Lambda execution on IoT devices.
+AWS IoT Device Defender,Internet of Things,Security; Audit; Monitoring;,Monitors IoT device security and manages threats.
+AWS IoT Device Management,Internet of Things,Provisioning; Organization; Fleet Management;,"Registers, organizes, and manages IoT devices."
+AWS IoT Events,Internet of Things,Event Detection; IoT; Alerts;,Detects events and triggers alarms from IoT device data.
+AWS IoT SiteWise,Internet of Things,Industrial IoT; Analytics; Data Modeling;,Collects and analyzes industrial equipment data.
+AWS IoT Things Graph,Internet of Things,Workflow; IoT; Modeling;,Connects IoT devices and creates workflows.
+AWS IoT 1-Click,Internet of Things,One-click; IoT; Simple Deployment;,Enables one-click activation and data sending for IoT devices.
+Amazon Comprehend,Machine Learning,Natural Language Processing; Text Analysis;,AI service for text comprehension and sentiment analysis.
+Amazon Forecast,Machine Learning,Time Series; Forecasting; Predictive Analytics;,ML service to generate forecasts based on historical data.
+Amazon Fraud Detector,Machine Learning,Fraud Detection; Real-time;,Managed ML service for real-time fraud detection.
+Amazon Kendra,Machine Learning,Enterprise Search; AI; NLP;,Intelligent search and knowledge discovery for enterprise documents.
+Amazon Lex,Machine Learning,Chatbot; NLP; Voice;,Service to create chatbots that interact via text or voice.
+Amazon Polly,Machine Learning,Text-to-Speech; Voice;,Converts text to natural-sounding speech.
+Amazon Rekognition,Machine Learning,Image Analysis; Video Analysis; Face Detection;,AI-based service for image and video analysis.
+Amazon SageMaker,Machine Learning,Training; Inference; ML Workflow;,"Fully managed platform to build, train, and deploy ML models."
+Amazon Textract,Machine Learning,OCR; Document Analysis;,Automatically extracts data from documents.
+Amazon Transcribe,Machine Learning,Speech-to-Text; Audio;,Converts speech to text.
+Amazon Translate,Machine Learning,Language Translation; Neural;,Translates text into multiple languages.
+Apache MXNet on AWS,Machine Learning,Deep Learning; Framework;,Service to build and train deep learning models using MXNet on AWS.
+Amazon Augmented AI (A2I),Machine Learning,Human Review; ML Integration;,Adds human review to ML predictions.
+AWS DeepComposer,Machine Learning,Music Generation; AI;,AI-powered service to compose music.
+AWS Deep Learning AMIs,Machine Learning,Prebuilt; Deep Learning; EC2;,Provides pre-configured AMIs for deep learning.
+AWS Deep Learning Containers,Machine Learning,Docker; Deep Learning; Prebuilt;,Containerized environments for deep learning applications.
+AWS DeepLens,Machine Learning,Computer Vision; Edge; Camera;,Device for camera-based visual analysis and ML applications.
+AWS DeepRacer,Machine Learning,Reinforcement Learning; Racing; Autonomous;,Reinforcement learning experience with autonomous racing cars.
+Amazon DevOps Guru,Machine Learning,Operational Insights; Anomaly Detection;,ML-based service to monitor application operations and detect anomalies.
+Amazon Elastic Inference,Machine Learning,Accelerator; Inference; Cost-efficient;,Provides GPU acceleration for ML inference.
+Amazon HealthLake,Machine Learning,Healthcare; Data Lake; FHIR;,Collects and analyzes healthcare data in standard FHIR format.
+AWS Inferentia,Machine Learning,ML Inference; Custom Chip;,AWS-designed hardware for ML inference acceleration.
+Amazon Lookout for Equipment,Machine Learning,Predictive Maintenance; IoT;,IoT and ML service to predict equipment failures.
+Amazon Lookout for Metrics,Machine Learning,Anomaly Detection; Metrics;,Detects anomalies in business and operational metrics.
+Amazon Lookout for Vision,Machine Learning,Computer Vision; Quality Control;,Analyzes images to identify quality issues.
+Amazon Monitron,Machine Learning,IoT; Predictive Maintenance;,IoT and ML-based monitoring for industrial equipment.
+AWS Panorama,Machine Learning,Edge AI; Video Analysis;,Edge AI service to locally analyze camera and video data.
+Amazon Personalize,Machine Learning,Recommendation; Personalization;,Provides real-time personalized recommendations.
+PyTorch on AWS,Machine Learning,Deep Learning; Framework;,Develop deep learning models on AWS using PyTorch.
+TensorFlow on AWS,Machine Learning,Deep Learning; Framework;,Build and train ML models on AWS using TensorFlow.
+Amazon SageMaker Data Wrangler,Machine Learning,Data Preparation; Feature Engineering;,Quickly prepare and transform data for ML.
+Amazon SageMaker Ground Truth,Machine Learning,Data Labeling; ML Training;,Creates labeled datasets for ML.
+AWS Chatbot,Management and Governance,Notifications; ChatOps; Slack;,Sends AWS service notifications via Slack or Chime.
+AWS CloudFormation,Management and Governance,Infrastructure as Code; Templates;,Manage cloud infrastructure as code.
+AWS CloudTrail,Management and Governance,Logging; Auditing; Governance;,Records AWS account activity for auditing.
+Amazon CloudWatch,Management and Governance,Monitoring; Metrics; Logs;,Monitors AWS resources and provides alarms.
+Amazon CloudWatch Logs,Management and Governance,Logging; Analysis;,Collects and analyzes application and system logs.
+AWS Command Line Interface (CLI),Management and Governance,Automation; Scripting;,Manage AWS resources from the command line.
+AWS Compute Optimizer,Management and Governance,Resource Optimization; Recommendations;,Provides performance and cost recommendations for AWS resources.
+AWS Config,Management and Governance,Compliance; Resource Tracking;,Tracks AWS resource changes and evaluates compliance.
+AWS Control Tower,Management and Governance,Multi-account; Governance; Setup;,Sets up multiple AWS accounts with central management and compliance.
+AWS Distro for OpenTelemetry,Management and Governance,Tracing; Metrics; Open-source;,Collects telemetry for distributed applications.
+AWS Health Dashboard,Management and Governance,Service Health; Notifications;,Displays AWS service status and notifications.
+AWS Launch Wizard,Management and Governance,Deployment; Guidance;,Facilitates fast and accurate deployment of enterprise applications.
+AWS License Manager,Management and Governance,License Tracking; Compliance;,Manages software licenses and ensures compliance.
+Amazon Managed Grafana,Management and Governance,Monitoring; Visualization;,Grafana-based monitoring and visualization service.
+Amazon Managed Service for Prometheus,Management and Governance,Monitoring; Metrics;,Prometheus-based monitoring and metrics collection service.
+AWS Management Console,Management and Governance,Web UI; Cloud Management;,Web console for managing AWS resources.
+AWS Organizations,Management and Governance,Multi-account; Management;,Centrally manage multiple AWS accounts.
+AWS Proton,Management and Governance,Application Deployment; DevOps;,Automates microservices and application deployments.
+AWS Resource Groups and Tag Editor,Management and Governance,Tagging; Organization;,Groups and manages AWS resources easily.
+AWS Service Catalog,Management and Governance,Catalog; Predefined Products;,Offers approved products for enterprise use.
+Service Quotas,Management and Governance,Limits; Resource Management;,Manages service quotas and limits.
+AWS Systems Manager,Management and Governance,Automation; Management; Monitoring;,Centrally manages AWS resources with automation.
+AWS Trusted Advisor,Management and Governance,Best Practices; Optimization;,Provides best practices and cost optimization recommendations.
+AWS Well-Architected Tool,Management and Governance,Best Practices; Review;,Evaluates applications against AWS Well-Architected Framework.
+AWS OpsWorks,Management and Governance,Configuration Management; Chef; Puppet;,Managed service for automating server configurations.
+AWS Console Mobile Application,Management and Governance,Mobile; Cloud Management;,Manage AWS resources from a mobile device.
+AWS Elemental Appliances and Software,Media Services,Video Processing; Encoding; Broadcast;,"Service to encode, process, and deliver video content."
+AWS Elemental MediaConnect,Media Services,Live Video; Transport; Contribution;,Securely transports live video streams at high quality.
+AWS Elemental MediaConvert,Media Services,File-based Video; Encoding; Transcoding;,Managed service to transcode video files into different formats.
+AWS Elemental MediaLive,Media Services,Live Video; Encoding; Streaming;,Real-time encoding service for live video broadcasting.
+AWS Elemental MediaPackage,Media Services,Video Packaging; DRM; Streaming;,Packages and protects video content for different devices.
+AWS Elemental MediaStore,Media Services,Storage; Video; Low Latency;,Stores and delivers video content with low latency.
+AWS Elemental MediaTailor,Media Services,Ad Insertion; Video;,Inserts and personalizes ads in video streams.
+Amazon Elastic Transcoder,Media Services,Media Conversion; Cloud;,Easily converts video and audio files.
+Amazon Kinesis Video Streams,Media Services,Video Streaming; IoT;,"Securely captures, stores, and analyzes video streams."
+Amazon Interactive Video Service (IVS),Media Services,Live Streaming; Low Latency;,Managed service for low-latency live video streaming.
+AWS Application Discovery Service,Migration and Transfer,Application Assessment; Dependency Mapping;,Helps discover local applications and plan migration to the cloud.
+AWS Application Migration Service,Migration and Transfer,Server Migration; Rehost;,Quickly and easily migrate servers to the cloud.
+AWS Database Migration Service (DMS),Migration and Transfer,Database Migration; Continuous Replication;,Continuously migrate databases to the cloud or between clouds.
+AWS DataSync,Migration and Transfer,Data Transfer; Automation;,Automates fast and secure data transfer.
+AWS Migration Hub,Migration and Transfer,Migration Tracking; Multi-Service;,Centrally tracks and manages cloud migration projects.
+AWS Schema Conversion Tool (SCT),Migration and Transfer,Database; Schema; Conversion;,Converts database schemas from one platform to another.
+AWS Snow Family,Migration and Transfer,Edge Computing; Data Transfer; Offline;,Allows offline transfer and processing of large datasets.
+AWS Transfer Family,Migration and Transfer,SFTP; FTPS; FTP;,Managed service for secure file transfer in the cloud.
+Migration Evaluator,Migration and Transfer,Assessment; Cost Estimation;,Provides cost estimation for migrating existing infrastructure to the cloud.
+Amazon CloudFront,Networking and Content Delivery,CDN; Caching; Global Distribution;,CDN service to deliver content globally with low latency.
+AWS Direct Connect,Networking and Content Delivery,Dedicated Network; Private Connection;,Provides dedicated network connection between AWS and data centers.
+Elastic Load Balancing (ELB),Networking and Content Delivery,Load Balancer; Traffic Distribution;,Distributes traffic across multiple targets to improve application scalability.
+AWS Global Accelerator,Networking and Content Delivery,Traffic Routing; Performance;,Improves application performance for global users.
+AWS PrivateLink,Networking and Content Delivery,Private Endpoint; VPC;,Makes AWS services accessible over private network endpoints.
+Amazon Route 53,Networking and Content Delivery,DNS; Domain; Traffic Routing;,Provides domain management and DNS routing.
+AWS Transit Gateway,Networking and Content Delivery,VPC Interconnect; Networking;,Routes traffic between VPCs and on-premises networks.
+Amazon VPC,Networking and Content Delivery,Virtual Network; Subnet; Security;,Runs AWS resources in isolated virtual networks.
+AWS VPN / AWS Site-to-Site VPN / AWS Client VPN,Networking and Content Delivery,Secure Connection; Encrypted;,Provides secure VPN connection between AWS and on-premises networks.
+AWS App Mesh,Networking and Content Delivery,Service Mesh; Microservices;,Ensures secure and observable communication between microservices.
+AWS Cloud Map,Networking and Content Delivery,Service Discovery; Microservices;,Dynamically discovers application resources.
+Amazon Braket,Quantum Technologies,Quantum Computing; Simulations;,Cloud-based service to develop and run quantum algorithms.
+AWS RoboMaker,Robotics,Simulation; Robot; AI;,"Managed platform to develop, simulate, and test robotic applications."
+AWS Ground Station,Satellite,Satellite Communication; Antenna;,Ground-based station service to communicate with satellites and receive data.
+AWS Artifact,Security,Compliance; Audit;,Provides access to AWS compliance documents and reports.
+AWS Audit Manager,Security,Automated Assessment; Compliance;,Automates compliance audit workflows.
+AWS Certificate Manager (ACM),Security,SSL/TLS; Certificates;,Manages SSL/TLS certificates for websites and applications.
+AWS CloudHSM,Security,Hardware Security Module; Encryption;,Stores cryptographic keys securely in hardware-based HSMs.
+Amazon Cognito,Security,User Authentication; Identity Management;,User authentication and identity management service for applications.
+Amazon Detective,Security,Threat Analysis; Investigation;,Analyzes security incidents and helps investigate root causes.
+AWS Directory Service,Security,Active Directory; LDAP;,Managed Microsoft Active Directory service.
+AWS Firewall Manager,Security,Security Policy; WAF;,Centrally manages AWS WAF and security policies.
+Amazon GuardDuty,Security,Threat Detection; Continuous Monitoring;,Continuous threat detection service for AWS accounts.
+AWS IAM Identity Center,Security,SSO; Identity Management;,Centralized access management for users and groups.
+AWS Identity and Access Management (IAM),Security,User Permissions; Security;,Securely controls access to AWS resources.
+Amazon Inspector,Security,Security Assessment; Vulnerability;,Performs vulnerability and compliance assessments for applications.
+AWS Key Management Service (KMS),Security,Encryption; Key Management;,Manages and uses encryption keys for data security.
+Amazon Macie,Security,Data Discovery; PII;,Identifies and protects sensitive data and personal information.
+AWS Network Firewall,Security,Network Protection; VPC;,Protects network traffic in VPCs with firewall rules.
+AWS Resource Access Manager (RAM),Security,Resource Sharing; VPC;,Enables secure sharing of AWS resources.
+AWS Secrets Manager,Security,Secret Storage; Credential Management;,Securely stores secrets such as API keys and passwords.
+AWS Security Hub,Security,Security Dashboard; Aggregation;,Centrally manages security alerts across AWS environment.
+AWS Security Token Service (STS),Security,Temporary Credentials; Federation;,Provides temporary security credentials for access control.
+AWS Shield,Security,DDoS Protection; Mitigation;,Protects AWS resources from DDoS attacks.
+AWS WAF,Security,Web Application Firewall; Rules;,Protects web applications from common attacks.
+AWS Backup,Storage,Backup; Automated; Managed;,Centrally backs up and recovers AWS resources.
+Amazon EBS,Storage,Block Storage; EC2;,High-performance block storage for EC2 instances.
+Amazon EFS,Storage,File Storage; Shared Access;,Shared file system for multiple EC2 instances.
+AWS Elastic Disaster Recovery,Storage,DR; Replication; Recovery;,Manages disaster recovery plans for critical applications.
+Amazon FSx,Storage,File System; Windows; Lustre;,Provides managed file systems with Windows or Lustre.
+Amazon S3,Storage,Object Storage; Scalability;,Scalable and durable object storage for all types of data.
+Amazon S3 Glacier,Storage,Archival; Low-cost;,Low-cost storage for long-term data archiving.
+AWS Storage Gateway,Storage,Hybrid Storage; On-premises;,Integrates on-premises data centers with cloud storage.
